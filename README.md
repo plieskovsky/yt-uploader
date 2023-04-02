@@ -25,4 +25,4 @@ Arguments:
    1. the video named as `compiled.mp4` in subdirectory `videos` -  `path_to_video_dir/videos/compiled.mp4`
    2. `client_secrets.json` file that contains the OAuth credentials that will be used for video upload. These credentials can be generated in your
    Google Cloud project that will be uses to uplad the video. This project has to complete the
-   [Youtube service audit|https://support.google.com/youtube/contact/yt_api_form?hl=en] if you want the uploaded videos to be publicly visible.
+   [Youtube service audit](https://support.google.com/youtube/contact/yt_api_form?hl=en) if you want the uploaded videos to be publicly visible.
